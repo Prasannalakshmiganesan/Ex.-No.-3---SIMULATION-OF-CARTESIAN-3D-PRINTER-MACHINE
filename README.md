@@ -60,8 +60,12 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: Prasannalakshmi G
+### Register Number: 212222240075
 
 ## Result: 
+
+![CDC](https://github.com/Prasannalakshmiganesan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118610231/1be309c0-2c98-49dc-8bed-6615302d7703)
+
+
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
